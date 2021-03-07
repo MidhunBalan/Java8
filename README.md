@@ -28,7 +28,7 @@ public int compare(obj1,obj2)
 - returns +ve iff obj1 has to come after obj2 
 - returns 0 iff obj1 and obj2 are equal
 
-https://github.com/MidhunBalan/Java8/tree/main/src/com/lambda/collections
+https://github.com/MidhunBalan/Java8/tree/main/src/com/lambda/collectionfrmwrk
 
 ### Default methods in Interface
 
