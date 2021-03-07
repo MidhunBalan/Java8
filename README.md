@@ -42,6 +42,12 @@ https://github.com/MidhunBalan/Java8/tree/main/src/com/interfacee/staticmethod
 * From 1.8 onwards we can run the interface directly. The reason is we can keep the static method inside the interface
 * we can add public static void main(String arg[]) in the interface
 
+# Predefined Functional Interfaces
+1. Predicate
+2. Function
+3. Consumer
+4. Supplier
+etc
 ### Predicate
 
 ### Function
