@@ -34,6 +34,7 @@ https://github.com/MidhunBalan/Java8/tree/main/src/com/lambda/collectionfrmwrk
 https://github.com/MidhunBalan/Java8/tree/main/src/com/lambda/anonymous/innerclasses
 
 ### Default methods in Interface
+https://github.com/MidhunBalan/Java8/tree/main/src/com/interfacee/defaultmethod
 
 ### Static Methods in Interfaces.
 
