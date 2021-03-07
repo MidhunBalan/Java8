@@ -36,6 +36,9 @@ https://github.com/MidhunBalan/Java8/tree/main/src/com/lambda/anonymous/innercla
 ### Default methods in Interface
 https://github.com/MidhunBalan/Java8/tree/main/src/com/interfacee/defaultmethod
 
+* Java 8 introduces a new concept of default method implementation in interfaces. 
+* This capability is added for backward compatibility so that old interfaces can be used to leverage the lambda expression capability of Java 8.
+
 ### Static Methods in Interfaces.
 https://github.com/MidhunBalan/Java8/tree/main/src/com/interfacee/staticmethod
 
