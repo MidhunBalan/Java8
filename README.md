@@ -8,6 +8,8 @@ https://github.com/MidhunBalan/Java8/tree/main/src/com/lambda
 
 ### Functional Interfaces
 
+https://github.com/MidhunBalan/Java8/tree/main/src/com/functionalInterface
+
 ### Default methods in Interface
 
 ### Static Methods in Interfaces.
