@@ -37,6 +37,7 @@ https://github.com/MidhunBalan/Java8/tree/main/src/com/lambda/anonymous/innercla
 https://github.com/MidhunBalan/Java8/tree/main/src/com/interfacee/defaultmethod
 
 ### Static Methods in Interfaces.
+https://github.com/MidhunBalan/Java8/tree/main/src/com/interfacee/staticmethod
 
 ### Predicate
 
