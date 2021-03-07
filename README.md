@@ -44,6 +44,8 @@ https://github.com/MidhunBalan/Java8/tree/main/src/com/interfacee/staticmethod
 
 * From 1.8 onwards we can run the interface directly. The reason is we can keep the static method inside the interface
 * we can add public static void main(String arg[]) in the interface
+* Static Methods in Interface are those methods, which are defined in the interface with the keyword static. 
+* Unlike other methods in Interface, these static methods contain the complete definition of the function and since the definition is complete and the method is static, therefore these methods cannot be overridden or changed in the implementation class.
 
 # Predefined Functional Interfaces
 1. Predicate
