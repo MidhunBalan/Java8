@@ -12,6 +12,10 @@ Lambda Expressions were added in Java 8. A lambda expression is a short block of
 
 https://github.com/MidhunBalan/Java8/tree/main/src/com/functionalInterface
 
+* The term Java functional interface was introduced in Java 8. 
+* A functional interface in Java is an interface that contains only a single abstract (unimplemented) method. 
+* A functional interface can contain default and static methods which do have an implementation, in addition to the single unimplemented method.
+
 ### Lambda Expression with collections
 
 Instead of Default natural sorting order if we want customized sorting order then we should go for Comparator interface.
