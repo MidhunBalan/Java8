@@ -2,25 +2,25 @@
 
 ## Topics covered
 
-###Lambda Expressions
+### Lambda Expressions
 
-###Functional Interfaces
+### Functional Interfaces
 
-###Default methods in Interface
+### Default methods in Interface
 
-###Static Methods in Interfaces.
+### Static Methods in Interfaces.
 
-###Predicate
+### Predicate
 
-###Function
+### Function
 
-###Consumer
+### Consumer
 
-###Supplier
+### Supplier
 
-###Method Reference & Constructor Reference by Double Colon(::) Operator.
+### Method Reference & Constructor Reference by Double Colon(::) Operator.
 
-###Stream API
+### Stream API
 
-###Date & Time API ( Joda API)
+### Date & Time API ( Joda API)
 
