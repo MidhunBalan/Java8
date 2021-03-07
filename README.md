@@ -54,15 +54,15 @@ https://github.com/MidhunBalan/Java8/tree/main/src/com/interfacee/staticmethod
 4. Supplier
 etc
 
-### 7.1 Predicate
+  ### 7.1 Predicate
 
 * Present in java.util.function package
 
-### 7.2 Function
+  ### 7.2 Function
 
-### 7.3 Consumer
+  ### 7.3 Consumer
 
-### 7.4 Supplier
+  ### 7.4 Supplier
 
 ### 8. Method Reference & Constructor Reference by Double Colon(::) Operator.
 
