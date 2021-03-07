@@ -4,6 +4,8 @@
 
 ### Lambda Expressions
 
+https://github.com/MidhunBalan/Java8/tree/main/src/com/lambda
+
 ### Functional Interfaces
 
 ### Default methods in Interface
