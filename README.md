@@ -12,6 +12,16 @@ Lambda Expressions were added in Java 8. A lambda expression is a short block of
 
 https://github.com/MidhunBalan/Java8/tree/main/src/com/functionalInterface
 
+### Lambda Expression with collections
+
+Instead of Default natural sorting order if we want customized sorting order then we should go for Comparator interface.
+Comparator interface contains only one abstract method: compare() Hence it is Functional interface.
+
+public int compare(obj1,obj2)
+- returns -ve iff obj1 has to come before obj2 
+- returns +ve iff obj1 has to come after obj2 
+- returns 0 iff obj1 and obj2 are equal
+
 ### Default methods in Interface
 
 ### Static Methods in Interfaces.
