@@ -54,7 +54,7 @@ https://github.com/MidhunBalan/Java8/tree/main/src/com/interfacee/staticmethod
 4. Supplier
 etc
 
-  ### 7.1 Predicate
+    ### 7.1 Predicate
 
 * Present in java.util.function package
 
