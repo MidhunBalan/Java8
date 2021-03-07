@@ -6,11 +6,17 @@
 
 https://github.com/MidhunBalan/Java8/tree/main/src/com/lambda
 
-Lambda Expressions were added in Java 8. A lambda expression is a short block of code which takes in parameters and returns a value. Lambda expressions are similar to methods, but they do not need a name and they can be implemented right in the body of a method.
+* Lambda Expressions were added in Java 8. 
+* A lambda expression is a short block of code which takes in parameters and returns a value. 
+* Lambda expressions are similar to methods, but they do not need a name and they can be implemented right in the body of a method.
 
 ### Functional Interfaces
 
 https://github.com/MidhunBalan/Java8/tree/main/src/com/functionalInterface
+
+* The term Java functional interface was introduced in Java 8. 
+* A functional interface in Java is an interface that contains only a single abstract (unimplemented) method. 
+* A functional interface can contain default and static methods which do have an implementation, in addition to the single unimplemented method.
 
 ### Lambda Expression with collections
 
@@ -21,6 +27,8 @@ public int compare(obj1,obj2)
 - returns -ve iff obj1 has to come before obj2 
 - returns +ve iff obj1 has to come after obj2 
 - returns 0 iff obj1 and obj2 are equal
+
+https://github.com/MidhunBalan/Java8/tree/main/src/com/lambda/collections
 
 ### Default methods in Interface
 
