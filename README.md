@@ -30,6 +30,9 @@ public int compare(obj1,obj2)
 
 https://github.com/MidhunBalan/Java8/tree/main/src/com/lambda/collectionfrmwrk
 
+### Lambda Expression with inner class
+https://github.com/MidhunBalan/Java8/tree/main/src/com/lambda/anonymous/innerclasses
+
 ### Default methods in Interface
 
 ### Static Methods in Interfaces.
