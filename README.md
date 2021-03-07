@@ -57,6 +57,8 @@ etc
     ### 7.1 Predicate
 
 * Present in java.util.function package
+* Contain only one method - test(T t)
+* Return type of test method is boolean
 
   ### 7.2 Function
 
