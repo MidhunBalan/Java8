@@ -62,6 +62,10 @@ https://github.com/MidhunBalan/Java8/tree/main/src/com/predicate
 * Contain only one method - test(T t)
 * Return type of test method is boolean
 
+Imp Point to remember:
+* Predicate contain only one abstract method and 3 default methods
+* abstract method is test() and default methods are negate(), and() and or()
+
   ### 7.2 Function
 
   ### 7.3 Consumer
