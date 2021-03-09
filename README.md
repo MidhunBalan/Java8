@@ -65,6 +65,8 @@ https://github.com/MidhunBalan/Java8/tree/main/src/com/predicate
 Imp Point to remember:
 * Predicate contain only one abstract method and 3 default methods
 * abstract method is test() and default methods are negate(), and() and or()
+* Predicate join example is here
+https://github.com/MidhunBalan/Java8/blob/main/src/com/predicate/PredicateJoining.java
 
   ### 7.2 Function
 
