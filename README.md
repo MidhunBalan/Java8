@@ -67,6 +67,9 @@ Imp Point to remember:
 * abstract method is test() and default methods are negate(), and() and or()
 * Predicate join example is here
 https://github.com/MidhunBalan/Java8/blob/main/src/com/predicate/Example4.java
+* isEquals method available in Predicate
+Refer the below oracle documentation to know more about the isEquals method. 
+https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html
 
   ### 7.2 Function
 
