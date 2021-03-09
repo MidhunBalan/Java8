@@ -2,7 +2,7 @@ package com.predicate;
 
 import java.util.function.Predicate;
 
-public class PredicateJoining {
+public class Example4 {
 
 	public static void main(String[] args) {
 		int[] x= {0, 5, 10, 15, 20, 25, 30};
