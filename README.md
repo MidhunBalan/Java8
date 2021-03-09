@@ -55,6 +55,8 @@ https://github.com/MidhunBalan/Java8/tree/main/src/com/interfacee/staticmethod
 etc
 
     ### 7.1 Predicate
+    
+https://github.com/MidhunBalan/Java8/tree/main/src/com/predicate
 
 * Present in java.util.function package
 * Contain only one method - test(T t)
