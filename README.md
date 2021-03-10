@@ -88,6 +88,9 @@ Function interface contains a static method. static <T> Function<T,T> identity()
 Returns a function that always returns its input argument.
 
   ### 7.3 Consumer
+  
+  * Sometimes our requirment is we have to provide some input value, perform certain operation, but not required to return anything,then we should go for Consumer.
+  * i.e Consumer can be used to consume object and perform certain operation.
 
   ### 7.4 Supplier
 
