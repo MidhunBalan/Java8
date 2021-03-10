@@ -78,6 +78,12 @@ https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html
 * Function interface present in Java.util.function package.
 * Functional interface contains only one method i.e., apply()
 
+Function chaining
+* We can combine multiple functions together to form more complex functions.For this Function interface defines the following 2 default methods:
+* f1.andThen(f2): First f1 will be applied and then for the result f2 will be applied.
+* f1.compose(f2)===>First f2 will be applied and then for the result f1 will be applied.
+
+
   ### 7.3 Consumer
 
   ### 7.4 Supplier
