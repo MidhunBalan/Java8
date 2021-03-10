@@ -95,6 +95,7 @@ Returns a function that always returns its input argument.
   * Consumer Functional Interface contains one abstract method - void accept(T t).
 
   ### 7.4 Supplier
+  https://github.com/MidhunBalan/Java8/tree/main/src/com/supplier
   * Supplier can be used to supply items (objects).
   * Supplier won't take any input and it will always supply objects. 
   * Supplier Functional Interface contains only one method get().
