@@ -83,6 +83,9 @@ Function chaining
 * f1.andThen(f2): First f1 will be applied and then for the result f2 will be applied.
 * f1.compose(f2): First f2 will be applied and then for the result f1 will be applied.
 
+IMP: 
+Function interface contains a static method. static <T> Function<T,T> identity()
+Returns a function that always returns its input argument.
 
   ### 7.3 Consumer
 
