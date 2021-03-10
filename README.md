@@ -91,6 +91,7 @@ Returns a function that always returns its input argument.
   
   * Sometimes our requirment is we have to provide some input value, perform certain operation, but not required to return anything,then we should go for Consumer.
   * i.e Consumer can be used to consume object and perform certain operation.
+  * Consumer Functional Interface contains one abstract method - void accept(T t).
 
   ### 7.4 Supplier
 
