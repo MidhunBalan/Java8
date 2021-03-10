@@ -88,12 +88,16 @@ Function interface contains a static method. static <T> Function<T,T> identity()
 Returns a function that always returns its input argument.
 
   ### 7.3 Consumer
+  https://github.com/MidhunBalan/Java8/tree/main/src/com/consumer
   
   * Sometimes our requirment is we have to provide some input value, perform certain operation, but not required to return anything,then we should go for Consumer.
   * i.e Consumer can be used to consume object and perform certain operation.
   * Consumer Functional Interface contains one abstract method - void accept(T t).
 
   ### 7.4 Supplier
+  * Supplier can be used to supply items (objects).
+  * Supplier won't take any input and it will always supply objects. 
+  * Supplier Functional Interface contains only one method get().
 
 ### 8. Method Reference & Constructor Reference by Double Colon(::) Operator.
 
