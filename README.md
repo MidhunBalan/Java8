@@ -72,6 +72,11 @@ Refer the below oracle documentation to know more about the isEquals method.
 https://docs.oracle.com/javase/8/docs/api/java/util/function/Predicate.html
 
   ### 7.2 Function
+  
+* Functions are exactly same as predicates except that functions can return any type of result but function should (can) return only one value and that value can be any type as per our requirement.
+* To implement functions oracle people introduced Function interface in 1.8version.
+* Function interface present in Java.util.function package.
+* Functional interface contains only one method i.e., apply()
 
   ### 7.3 Consumer
 
