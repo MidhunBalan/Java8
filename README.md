@@ -102,6 +102,7 @@ Returns a function that always returns its input argument.
 
 
 ### Two-Argument (Bi) Functional Interfaces
+https://github.com/MidhunBalan/Java8/tree/main/src/com/twoargumentinterface
 
 When to use BiPredicate
 * If you want to accept only one argument, we can go with predicate
