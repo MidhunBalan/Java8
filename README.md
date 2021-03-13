@@ -101,7 +101,7 @@ Returns a function that always returns its input argument.
   * Supplier Functional Interface contains only one method get().
 
 
-### Two-Argument (Bi) Functional Interfaces
+### 8.Two-Argument (Bi) Functional Interfaces
 https://github.com/MidhunBalan/Java8/tree/main/src/com/twoargumentinterface
 
 When to use BiPredicate
@@ -116,11 +116,11 @@ The following functional interfaces can take 2 input arguments.
 * BiFunction
 * BiConsumer
 
-### 8. Method Reference & Constructor Reference by Double Colon(::) Operator.
+### 9. Method Reference & Constructor Reference by Double Colon(::) Operator.
 
-### 9. Stream API
+### 10. Stream API
 
-### 10. Date & Time API ( Joda API)
+### 11. Date & Time API ( Joda API)
 
 ### Is Java call by value or call by reference?
 
