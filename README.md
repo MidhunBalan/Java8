@@ -116,11 +116,14 @@ The following functional interfaces can take 2 input arguments.
 * BiFunction
 * BiConsumer
 
-### 9. Method Reference & Constructor Reference by Double Colon(::) Operator.
+### 9. Premitive type functional interfaces, unary operator and binary operator
 
-### 10. Stream API
 
-### 11. Date & Time API ( Joda API)
+### 10. Method Reference & Constructor Reference by Double Colon(::) Operator.
+
+### 11. Stream API
+
+### 12. Date & Time API ( Joda API)
 
 ### Is Java call by value or call by reference?
 
