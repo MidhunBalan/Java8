@@ -101,6 +101,18 @@ Returns a function that always returns its input argument.
   * Supplier Functional Interface contains only one method get().
 
 ### 8. Method Reference & Constructor Reference by Double Colon(::) Operator.
+When to use BiPredicate
+* If you want to accept only one argument, we can go with predicate
+* if you want to accept two argument, we can go with BiPredicate
+(Note: In Function interface, it can take one input and one output value as argument, BiPredicate can take two argument)
+
+Normal Functional Interfaces (Predicate, Function and Consumer) can accept only one input argument. But sometimes our programming requirement is to accept two input arguments, then we should go for two-argument functional interfaces.
+
+The following functional interfaces can take 2 input arguments.
+* BiPredicate
+* BiFunction
+* BiConsumer
+
 
 ### 9. Stream API
 
