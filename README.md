@@ -125,19 +125,21 @@ The following functional interfaces can take 2 input arguments.
 
 Methods of streams -
 
-filter()
+filter method
 
-map()
+map method
 
-collect()
+collect method
 
-count()
+count method
 
-sorted() - natural sorting and customizable sorting
+sorted method - natural sorting and customizable sorting
 
-min()
+min method
 
-max()
+max method
+
+forEach method
 
 ### 12. Date & Time API ( Joda API)
 
