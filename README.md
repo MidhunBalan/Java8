@@ -141,6 +141,8 @@ max method
 
 forEach method
 
+toArray method
+
 ### 12. Date & Time API ( Joda API)
 
 ### Is Java call by value or call by reference?
