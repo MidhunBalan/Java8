@@ -123,6 +123,15 @@ The following functional interfaces can take 2 input arguments.
 
 ### 11. Stream API
 
+Methods of streams -
+filter(), 
+map()
+collect(), 
+count(), 
+sorted() - natural sorting and customizable sorting
+min(), 
+max()
+
 ### 12. Date & Time API ( Joda API)
 
 ### Is Java call by value or call by reference?
