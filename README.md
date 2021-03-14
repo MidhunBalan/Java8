@@ -143,6 +143,13 @@ forEach method
 
 toArray method
 
+We can also apply stream for group of values and for arrays
+1. for group of values, we can go with Stream.of() method
+      Example
+        Stream<Integer> s = Stream.of(9, 99, 99, 999);
+2. For arrays
+    Stream<Double> s1 = Stream.of(doubleArray)
+
 ### 12. Date & Time API ( Joda API)
 
 ### Is Java call by value or call by reference?
