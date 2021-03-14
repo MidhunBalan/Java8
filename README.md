@@ -151,6 +151,9 @@ We can also apply stream for group of values and for arrays
     Stream<Double> s1 = Stream.of(doubleArray)
 
 ### 12. Date & Time API ( Joda API)
+LocalDate date = LocalDate.now(); // 2021-03-14
+LocalTime time= LocalTime.now(); // 21:21:41.792
+
 
 ### Is Java call by value or call by reference?
 
