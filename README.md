@@ -124,12 +124,19 @@ The following functional interfaces can take 2 input arguments.
 ### 11. Stream API
 
 Methods of streams -
-filter(), 
+
+filter()
+
 map()
-collect(), 
-count(), 
+
+collect()
+
+count()
+
 sorted() - natural sorting and customizable sorting
-min(), 
+
+min()
+
 max()
 
 ### 12. Date & Time API ( Joda API)
