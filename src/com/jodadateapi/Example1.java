@@ -1,6 +1,7 @@
 package com.jodadateapi;
 
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.time.LocalTime;
 
 public class Example1 {
@@ -34,6 +35,10 @@ public class Example1 {
 		
 		int n = time.getNano();
 		System.out.println(n);
+		
+		LocalDateTime datetime= LocalDateTime.now();
+		System.out.println(time);
+		
 		
 
 	}
